@@ -23,11 +23,12 @@
 
 <!-- SUPPORTED EDITORS -->
 <p>
-  <img src="https://img.shields.io/badge/Cursor-000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Windsurf-00C4B3?style=flat-square" alt="Windsurf"/>
+  <img src="https://img.shields.io/badge/Windsurf-00C4B3?style=flat-square&logo=codeium&logoColor=white" alt="Windsurf"/>
   <img src="https://img.shields.io/badge/OpenCode-FF6B6B?style=flat-square" alt="OpenCode"/>
-  <img src="https://img.shields.io/badge/Zed-084CCF?style=flat-square" alt="Zed"/>
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white" alt="Zed"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity"/>
 </p>
 
 <p>
@@ -159,7 +160,7 @@ PixelPilot trains your AI to write **unique, opinionated, professional UI** by e
 <sub>Every interaction covered</sub>
 </td>
 <td align="center" width="25%">
-<h1>5</h1>
+<h1>6</h1>
 <b>Editors Supported</b><br/>
 <sub>Use your favorite</sub>
 </td>
@@ -172,11 +173,12 @@ PixelPilot trains your AI to write **unique, opinionated, professional UI** by e
 
 | Editor | Status | Config Location |
 |--------|--------|-----------------|
-| <img src="https://cursor.sh/favicon.ico" width="16"/> **Cursor** | Full Support | `.cursorrules` + `.cursor/rules/` |
-| <img src="https://code.visualstudio.com/favicon.ico" width="16"/> **VS Code (Copilot)** | Full Support | `.github/copilot-instructions.md` |
-| <img src="https://codeium.com/favicon.svg" width="16"/> **Windsurf** | Full Support | `.windsurf/rules/` |
-| <img src="https://opencode.ai/favicon.ico" width="16"/> **OpenCode** | Full Support | `AGENTS.md` + `.opencode/rules/` |
-| <img src="https://zed.dev/favicon.ico" width="16"/> **Zed** | Full Support | `.rules` |
+| **Cursor** | Full Support | `.cursorrules` + `.cursor/rules/` |
+| **VS Code (Copilot)** | Full Support | `.github/copilot-instructions.md` |
+| **Windsurf** | Full Support | `.windsurf/rules/` |
+| **OpenCode** | Full Support | `AGENTS.md` + `.opencode/rules/` |
+| **Zed** | Full Support | `.rules` |
+| **Antigravity** | Coming Soon | TBD |
 
 ---
 
