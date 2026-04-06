@@ -1,5 +1,10 @@
 ---
 description: Time-of-day themes, deadline urgency, personalized greetings, and temporal context. Making interfaces aware of when.
+triggers:
+  - temporal
+  - time-based
+  - schedule
+  - calendar ui
 ---
 
 # Temporal UI — Time-Aware Interfaces

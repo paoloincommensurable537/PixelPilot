@@ -1,5 +1,9 @@
 ---
 description: Changelog for OpenCode UI/UX 2026 Design System, tracking major versions from v1 to v11.
+triggers:
+  - changelog
+  - release notes
+  - version history
 ---
 
 # OpenCode UI/UX 2026 Design System Changelog

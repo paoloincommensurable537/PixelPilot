@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Edge computing features including Vercel Edge Functions, Cloudflare Workers, middleware for personalization, A/B testing, and geolocation.
 ---
 

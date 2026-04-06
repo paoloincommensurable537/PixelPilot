@@ -1,5 +1,10 @@
 ---
 description: Real-time features including WebSockets, Server-Sent Events (SSE), live dashboards, collaborative editing (CRDTs), and chat interfaces.
+triggers:
+  - realtime
+  - websocket
+  - live update
+  - push notification
 ---
 
 # UI/UX Real-time Features 2026

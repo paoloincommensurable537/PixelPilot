@@ -1,5 +1,10 @@
 ---
 description: Share design system across multiple apps using npm workspaces, Turborepo, or publishable packages. Avoid duplication.
+triggers:
+  - monorepo
+  - turborepo
+  - workspace
+  - nx
 ---
 
 # Monorepo Design System Skill

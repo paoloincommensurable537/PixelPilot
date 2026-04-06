@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Auto-generate component documentation from source code using react-docgen, vuese, or vitepress. Outputs docs with props, examples, and token usage.
 ---
 

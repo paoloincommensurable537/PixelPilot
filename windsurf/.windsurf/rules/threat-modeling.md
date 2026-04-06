@@ -5,6 +5,10 @@ description: >
   endpoints, or admin functionality. Produces a structured threat model and
   mitigation plan. Load alongside ai-red-teaming.md for AI-specific threats.
   Trigger phrases: "threat model", "security review", "before I build", "is this secure".
+triggers:
+  - threat model
+  - security
+  - risk assessment
 ---
 
 # Threat Modelling 2026

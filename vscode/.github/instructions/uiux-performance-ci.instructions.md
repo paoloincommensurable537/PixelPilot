@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Lighthouse CI with budget assertions. GitHub Action that runs on PR, comments scores, and fails if budgets exceeded.
 ---
 

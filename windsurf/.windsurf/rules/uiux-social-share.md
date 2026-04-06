@@ -1,5 +1,9 @@
 ---
 description: Social share buttons using Web Share API with fallback popups. Supports Twitter, LinkedIn, Facebook, WhatsApp, Email. Token-aware styling, no third-party libraries.
+triggers:
+  - social share
+  - share button
+  - social media
 ---
 
 # UI/UX Social Share Buttons

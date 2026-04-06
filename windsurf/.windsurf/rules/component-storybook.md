@@ -5,6 +5,10 @@ description: >
   React or Vue component files, extracts props, variants, and states, and outputs
   production-quality .stories.tsx / .stories.ts files using the project's design tokens.
   Load alongside uiux-testing.md and uiux-states.md.
+triggers:
+  - storybook
+  - component library
+  - documentation
 ---
 
 # Component Storybook 2026

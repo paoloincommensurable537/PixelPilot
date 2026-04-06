@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Advanced i18n patterns including language switchers, RTL support, date/time formatting, number/currency formatting, and pluralization rules.
 ---
 

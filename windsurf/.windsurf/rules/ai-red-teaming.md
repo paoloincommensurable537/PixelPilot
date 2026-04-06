@@ -5,6 +5,10 @@ description: >
   or any endpoint that forwards user input to an LLM. Defines attack scenarios,
   test prompts, mitigations, and a structured red-team report. Load alongside
   threat-modeling.md for full security coverage.
+triggers:
+  - red team
+  - security test
+  - adversarial test
 ---
 
 # AI Red-Teaming 2026

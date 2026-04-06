@@ -1,3 +1,13 @@
+---
+description: Multi-step forms, validation, autocomplete, and submission patterns
+triggers:
+  - form
+  - input field
+  - validation
+  - multi-step form
+  - autocomplete
+---
+
 # UI/UX Forms 2026
 
 > Multi-step forms, autocomplete, password strength, phone + country picker,

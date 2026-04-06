@@ -1,5 +1,10 @@
 ---
 description: AI-powered frontend features including AI search, autocomplete, chat interfaces (Gemini), and content generation.
+triggers:
+  - ai frontend
+  - ai ui
+  - llm interface
+  - chatbot ui
 ---
 
 # UI/UX AI-Powered Frontend 2026

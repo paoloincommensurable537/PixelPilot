@@ -1,5 +1,10 @@
 ---
 description: Deep dive on print and PDF export. Covers @media print, window.print(), jsPDF integration, page breaks, and repeating headers.
+triggers:
+  - print
+  - export
+  - pdf export
+  - download
 ---
 
 # UI/UX Print & PDF Export

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Generate placeholder pages for Privacy Policy, Terms of Service, Cookie Policy, and Accessibility Statement. Uses app config for names. Checks existence before creating.
 ---
 

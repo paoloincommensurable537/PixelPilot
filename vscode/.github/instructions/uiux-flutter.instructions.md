@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{dart}"
 description: Dedicated skill for integrating OpenCode UI/UX 2026 design system with Flutter applications.
 ---
 

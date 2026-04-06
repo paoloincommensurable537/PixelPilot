@@ -1,5 +1,9 @@
 ---
 description: Library of token-aware micro-interactions including ripple, skeleton loaders, toasts, pull-to-refresh, and drag-to-reorder. All respect prefers-reduced-motion.
+triggers:
+  - micro interaction
+  - feedback
+  - subtle animation
 ---
 
 # UI/UX Micro-Interactions Library

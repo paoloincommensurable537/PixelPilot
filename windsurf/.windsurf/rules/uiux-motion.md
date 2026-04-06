@@ -1,3 +1,12 @@
+---
+description: Animations, transitions, and motion design principles
+triggers:
+  - animation
+  - motion
+  - transition
+  - micro animation
+---
+
 # UI/UX Motion, Animation & Loading States 2026
 
 > Per-language animation systems, GSAP vs CSS decision rules, spring physics,

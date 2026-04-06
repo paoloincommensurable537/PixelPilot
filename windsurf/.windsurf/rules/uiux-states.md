@@ -1,3 +1,12 @@
+---
+description: Loading, empty, error states, and skeleton screens
+triggers:
+  - loading state
+  - empty state
+  - error state
+  - skeleton
+---
+
 # UI/UX Component States 2026
 
 > Every UI component has states. This file defines ALL 10 states every component

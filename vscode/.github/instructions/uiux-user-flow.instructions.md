@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Generate Mermaid user flow diagrams from natural language descriptions. Visualize user journeys, conversion funnels, and navigation paths.
 ---
 

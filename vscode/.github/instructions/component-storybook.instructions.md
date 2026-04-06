@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: >
   Storybook story generation skill. Load when the user asks to "generate stories",
   "add Storybook", "document this component", or "create stories for". Analyses

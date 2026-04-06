@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Navbar and footer must be shared components. Active link highlighting uses route matching. Consistent styling across all pages.
 ---
 

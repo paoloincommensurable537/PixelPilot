@@ -1,5 +1,9 @@
 ---
 description: Meta-skill for heuristic evaluation using Nielsen's 10 usability heuristics plus design language consistency checks. Outputs severity levels and suggested fixes.
+triggers:
+  - design critique
+  - review
+  - feedback
 ---
 
 # UI/UX Design Critique Skill

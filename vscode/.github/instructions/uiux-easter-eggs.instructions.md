@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Konami codes, hidden features, delightful surprises, and rewarding exploration. Making interfaces that reward curiosity.
 ---
 

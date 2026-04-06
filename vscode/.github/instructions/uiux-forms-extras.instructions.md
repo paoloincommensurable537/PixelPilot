@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Advanced form patterns including search bars, searchable dropdowns, range sliders, color pickers, and autocomplete/typeahead with API integration.
 ---
 

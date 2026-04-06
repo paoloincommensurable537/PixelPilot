@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Save and restore scroll position when navigating between pages. Covers React Router, vanilla JS, Laravel/Livewire, and respects prefers-reduced-motion.
 ---
 

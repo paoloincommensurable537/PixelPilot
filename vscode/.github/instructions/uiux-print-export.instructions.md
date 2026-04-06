@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Deep dive on print and PDF export. Covers @media print, window.print(), jsPDF integration, page breaks, and repeating headers.
 ---
 

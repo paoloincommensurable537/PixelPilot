@@ -1,5 +1,10 @@
 ---
 description: Web Speech API patterns, voice commands, audio feedback, and voice-first accessibility. Making interfaces speakable.
+triggers:
+  - voice
+  - speech
+  - voice command
+  - voice assistant
 ---
 
 # Voice UI & Audio Feedback

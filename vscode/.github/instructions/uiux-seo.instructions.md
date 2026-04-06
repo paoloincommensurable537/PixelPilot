@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Advanced SEO patterns including structured data (JSON-LD), meta tags, sitemap.xml, and robots.txt guidance.
 ---
 

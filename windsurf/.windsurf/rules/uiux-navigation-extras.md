@@ -1,5 +1,10 @@
 ---
 description: Advanced navigation patterns including breadcrumbs, pagination, tabs, accordions, collapsible sidebars, bottom sheets, and command palettes.
+triggers:
+  - navigation
+  - breadcrumb
+  - menu
+  - sidebar
 ---
 
 # UI/UX Navigation Extras 2026

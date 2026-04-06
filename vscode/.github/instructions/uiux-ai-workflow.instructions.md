@@ -1,3 +1,8 @@
+---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
+description: AI assistant workflows and Copilot integration
+---
+
 # UI/UX AI Workflow 2026
 
 > AI-native engineering patterns: using AI tools (Copilot, Claude, Cursor, Lovable)

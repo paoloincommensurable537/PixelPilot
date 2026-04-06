@@ -1,5 +1,9 @@
 ---
 description: Generate Mermaid user flow diagrams from natural language descriptions. Visualize user journeys, conversion funnels, and navigation paths.
+triggers:
+  - user flow
+  - journey
+  - onboarding
 ---
 
 # UI/UX User Flow Diagrams

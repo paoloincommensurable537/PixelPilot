@@ -1,5 +1,10 @@
 ---
 description: Battery-aware UI, light sensor adaptation, network-adaptive loading, and context-aware interfaces. Making apps that respect their environment.
+triggers:
+  - ambient
+  - context aware
+  - environment
+  - sensor
 ---
 
 # Ambient Awareness

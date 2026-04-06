@@ -1,5 +1,10 @@
 ---
 description: Advanced SEO patterns including structured data (JSON-LD), meta tags, sitemap.xml, and robots.txt guidance.
+triggers:
+  - seo
+  - meta tags
+  - search optimization
+  - structured data
 ---
 
 # UI/UX Search Engine Optimization (SEO) 2026

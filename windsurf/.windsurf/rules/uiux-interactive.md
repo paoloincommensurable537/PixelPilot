@@ -1,3 +1,12 @@
+---
+description: Interactive elements, hover states, and user interactions
+triggers:
+  - interactive
+  - click
+  - hover
+  - user interaction
+---
+
 # UI/UX Interactive Components 2026
 
 > Covers: image shape variants, mega-menu dropdowns (Tesla-style), navbar variants,

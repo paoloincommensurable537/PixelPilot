@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: GitHub Action that runs axe-core accessibility tests on preview/staging URLs. Fails PR on critical/serious violations.
 ---
 

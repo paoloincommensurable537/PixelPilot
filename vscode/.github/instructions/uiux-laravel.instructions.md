@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{php,blade.php}"
 description: Dedicated skill for integrating OpenCode UI/UX 2026 design system with Laravel, Blade, and Vite.
 ---
 

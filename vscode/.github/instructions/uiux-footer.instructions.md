@@ -1,3 +1,8 @@
+---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
+description: Footer design, links, and site information
+---
+
 # UI/UX Footer System 2026
 
 > Full footer system per design language. Every footer is a complete component:

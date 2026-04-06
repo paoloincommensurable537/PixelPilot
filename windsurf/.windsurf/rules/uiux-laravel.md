@@ -1,5 +1,10 @@
 ---
 description: Dedicated skill for integrating OpenCode UI/UX 2026 design system with Laravel, Blade, and Vite.
+triggers:
+  - laravel
+  - blade
+  - php
+  - livewire
 ---
 
 # OpenCode UI/UX 2026 — Laravel Integration Skill

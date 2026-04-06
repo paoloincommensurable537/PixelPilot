@@ -1,5 +1,10 @@
 ---
 description: GraphQL API integration including Apollo Client, URQL, code generation, caching strategies, and 2026 GraphQL-first APIs.
+triggers:
+  - graphql
+  - apollo
+  - query
+  - mutation
 ---
 
 # UI/UX GraphQL APIs 2026

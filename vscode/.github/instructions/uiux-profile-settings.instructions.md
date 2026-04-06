@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Complete profile settings page pattern. Includes avatar upload, name/email/password editing, notification preferences, theme toggle, and account deletion. Token-aware and accessible.
 ---
 

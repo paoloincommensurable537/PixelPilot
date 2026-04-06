@@ -1,5 +1,9 @@
 ---
 description: Skill to verify third-party libraries before recommending them. Checks npm/GitHub existence, update recency, download counts, and license compatibility.
+triggers:
+  - library
+  - dependency
+  - package check
 ---
 
 # Library Verification Skill

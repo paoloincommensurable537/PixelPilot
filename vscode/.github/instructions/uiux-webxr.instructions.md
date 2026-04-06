@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: WebXR patterns for AR try-on, VR experiences, immersive product views, and spatial web interfaces. The next dimension of web UI.
 ---
 

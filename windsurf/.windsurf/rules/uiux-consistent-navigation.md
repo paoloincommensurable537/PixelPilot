@@ -1,5 +1,9 @@
 ---
 description: Navbar and footer must be shared components. Active link highlighting uses route matching. Consistent styling across all pages.
+triggers:
+  - navigation
+  - nav consistency
+  - menu structure
 ---
 
 # UI/UX Consistent Navigation

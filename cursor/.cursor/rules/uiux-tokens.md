@@ -1,3 +1,7 @@
+---
+description: Design tokens, CSS variables, and theming system
+---
+
 # UI/UX Tokens & Design System
 
 > Brand token system, 3-tier token architecture (Figma-aligned), CSS variables,

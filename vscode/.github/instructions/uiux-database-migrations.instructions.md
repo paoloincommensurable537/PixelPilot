@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Rules for safe database schema changes. Never delete existing migrations. Provides patterns for Laravel, Django, and raw SQL.
 ---
 

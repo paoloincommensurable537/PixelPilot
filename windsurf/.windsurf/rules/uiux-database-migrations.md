@@ -1,5 +1,10 @@
 ---
 description: Rules for safe database schema changes. Never delete existing migrations. Provides patterns for Laravel, Django, and raw SQL.
+triggers:
+  - database
+  - migration
+  - schema
+  - seed
 ---
 
 # UI/UX Database Migration Rules

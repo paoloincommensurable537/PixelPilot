@@ -1,5 +1,10 @@
 ---
 description: Cover 2026 native browser APIs - Popover API, <dialog> with ::backdrop, :user-valid/:user-invalid pseudo-classes, and @starting-style for entry animations. Always provide fallbacks.
+triggers:
+  - native api
+  - browser api
+  - geolocation
+  - clipboard api
 ---
 
 # UI/UX Native Browser APIs (2026)

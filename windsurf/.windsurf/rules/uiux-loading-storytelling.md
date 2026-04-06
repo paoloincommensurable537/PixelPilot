@@ -1,5 +1,9 @@
 ---
 description: Making wait times feel shorter through progress narratives, skeleton theatre, and entertaining loading states. Turning frustration into delight.
+triggers:
+  - loading
+  - storytelling
+  - progress indicator
 ---
 
 # Loading State Storytelling

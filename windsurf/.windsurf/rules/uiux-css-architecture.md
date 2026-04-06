@@ -1,3 +1,11 @@
+---
+description: CSS methodology, modules, and styling strategies
+triggers:
+  - css architecture
+  - css modules
+  - styling strategy
+---
+
 # UI/UX CSS Architecture 2026
 
 > Tailwind v4, CSS Layers, utility-first vs component-first, CSS Modules,

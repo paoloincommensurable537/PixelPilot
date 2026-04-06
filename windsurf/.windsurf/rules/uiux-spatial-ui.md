@@ -1,5 +1,10 @@
 ---
 description: WebGPU, Three.js, and spatial UI patterns for immersive 3D web experiences. Product viewers, depth layers, and parallax beyond the basic.
+triggers:
+  - spatial
+  - 3d ui
+  - depth
+  - parallax
 ---
 
 # Spatial UI & 3D Web Experiences

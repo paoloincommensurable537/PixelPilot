@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Simulate color blindness (protanopia, deuteranopia, tritanopia) via SVG filters. Provides fixes including icons, patterns, and line styles for charts.
 ---
 

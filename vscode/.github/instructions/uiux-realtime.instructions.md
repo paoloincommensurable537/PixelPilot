@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Real-time features including WebSockets, Server-Sent Events (SSE), live dashboards, collaborative editing (CRDTs), and chat interfaces.
 ---
 

@@ -1,3 +1,12 @@
+---
+description: Reusable UI components and design system patterns
+triggers:
+  - component
+  - ui component
+  - reusable component
+  - design system
+---
+
 # UI/UX Components, Alerts, Nav & Grid
 
 > Dark mode setup, global CSS reset, CDN stack, SweetAlert2 themes, spacing, responsive navigation, grid layouts.

@@ -1,5 +1,9 @@
 ---
 description: Skill to migrate existing CSS/JSX to design tokens. Includes regex patterns, mapping tables, native UI element detection, and diff output.
+triggers:
+  - migration
+  - upgrade
+  - code migration
 ---
 
 # UI/UX Migration Skill

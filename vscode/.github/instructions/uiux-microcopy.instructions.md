@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Error messages that don't suck, empty states with personality, CTAs that convert, and microcopy that builds trust. Words matter.
 ---
 

@@ -1,5 +1,9 @@
 ---
 description: Pre-commit hook or CI step that scans code for undefined CSS variables and hardcoded values that should be tokens.
+triggers:
+  - token check
+  - auth token
+  - jwt validation
 ---
 
 # Token Checker Skill

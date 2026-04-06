@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Meta-skill for researching and evaluating modern front-end libraries.
 ---
 

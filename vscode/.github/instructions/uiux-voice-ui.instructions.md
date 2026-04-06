@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Web Speech API patterns, voice commands, audio feedback, and voice-first accessibility. Making interfaces speakable.
 ---
 

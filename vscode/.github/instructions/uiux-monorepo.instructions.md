@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Share design system across multiple apps using npm workspaces, Turborepo, or publishable packages. Avoid duplication.
 ---
 

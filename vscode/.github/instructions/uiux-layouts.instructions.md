@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Advanced layout patterns including floating cards, hero offsets, full-bleed bands, diagonal splits, masonry grids, and dashboard widget systems.
 ---
 

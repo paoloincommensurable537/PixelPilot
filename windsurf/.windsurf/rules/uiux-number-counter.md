@@ -1,5 +1,9 @@
 ---
 description: Animated number counter for KPIs and stats. Scroll-triggered with Intersection Observer, easing per design language, formatting options, respects prefers-reduced-motion.
+triggers:
+  - counter
+  - number animation
+  - count up
 ---
 
 # UI/UX Animated Number Counter

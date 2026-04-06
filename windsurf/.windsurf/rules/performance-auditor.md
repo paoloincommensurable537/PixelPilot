@@ -5,6 +5,10 @@ description: >
   performance review. Uses Chrome DevTools MCP (or Lighthouse CLI) to run a full
   audit, capture CWV metrics, and output a prioritised fix plan. Load alongside
   uiux-performance.md for remediation patterns.
+triggers:
+  - performance audit
+  - lighthouse
+  - optimization
 ---
 
 # Performance Auditor 2026

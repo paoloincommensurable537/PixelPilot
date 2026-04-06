@@ -1,3 +1,11 @@
+---
+description: Project structure, folder organization, and code architecture
+triggers:
+  - architecture
+  - folder structure
+  - code organization
+---
+
 # UI/UX Architecture 2026
 
 > Feature-Sliced Design, component architecture, state management (Signals vs Context),

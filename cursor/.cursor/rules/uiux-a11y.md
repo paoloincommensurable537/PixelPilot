@@ -1,3 +1,7 @@
+---
+description: Accessibility best practices, WCAG compliance, and ARIA patterns
+---
+
 # UI/UX Accessibility, Forms & Fluid Typography
 
 > Fluid clamp() typography, WCAG contrast rules, skip links, ARIA landmarks, floating label forms, drag-and-drop upload.

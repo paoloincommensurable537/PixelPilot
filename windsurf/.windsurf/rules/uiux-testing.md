@@ -1,3 +1,12 @@
+---
+description: Component testing, E2E testing, and visual regression
+triggers:
+  - testing
+  - unit test
+  - e2e test
+  - component test
+---
+
 # UI/UX Testing 2026
 
 > Testing Trophy, component testing with Storybook, accessibility testing (axe-core),

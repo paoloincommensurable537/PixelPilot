@@ -1,5 +1,9 @@
 ---
 description: Concrete Model Context Protocol (MCP) server configurations for Chrome DevTools and Lighthouse CLI.
+triggers:
+  - mcp
+  - model context protocol
+  - ai integration
 ---
 
 # OpenCode UI/UX 2026 — MCP Server Setup

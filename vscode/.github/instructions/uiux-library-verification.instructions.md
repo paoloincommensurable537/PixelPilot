@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Skill to verify third-party libraries before recommending them. Checks npm/GitHub existence, update recency, download counts, and license compatibility.
 ---
 

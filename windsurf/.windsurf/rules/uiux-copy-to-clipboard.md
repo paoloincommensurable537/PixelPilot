@@ -1,5 +1,9 @@
 ---
 description: Copy to clipboard using Clipboard API with execCommand fallback. Visual feedback via tooltip or icon change. Token-aware styling with accessibility announcements.
+triggers:
+  - copy
+  - clipboard
+  - copy button
 ---
 
 # UI/UX Copy to Clipboard

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: >
   Meta-skill: forces structured planning, constraint elicitation, and self-critique
   before writing any code or generating any artefact. Load this file FIRST on any

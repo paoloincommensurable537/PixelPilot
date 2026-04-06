@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: >
   Automated Lighthouse performance audit skill. Load when the user asks for a
   performance audit, Lighthouse score, Core Web Vitals check, or "before ship"

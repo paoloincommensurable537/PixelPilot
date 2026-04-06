@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Advanced content components including tooltips, popovers, carousels, video players, lightboxes, avatars, ratings, progress bars, steppers, and code blocks.
 ---
 

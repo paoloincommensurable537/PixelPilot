@@ -1,5 +1,10 @@
 ---
 description: Security headers configuration for CSP, HSTS, X-Frame-Options, and more. Covers Next.js, Laravel, and static sites.
+triggers:
+  - security
+  - headers
+  - csp
+  - cors
 ---
 
 # Security Headers Skill

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: 6-digit OTP/verification code input. Individual boxes, auto-focus, paste support, backspace navigation. Token-aware styling with countdown timer.
 ---
 

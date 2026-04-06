@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Advanced service worker caching strategies with Workbox. Network-first for APIs, cache-first for assets, stale-while-revalidate for images.
 ---
 

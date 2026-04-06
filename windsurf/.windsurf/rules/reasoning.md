@@ -5,6 +5,10 @@ description: >
   non-trivial task — any request involving architecture, new features, refactoring,
   security decisions, or ambiguous requirements. Prevents premature code generation
   and "happy-path tunnel vision".
+triggers:
+  - reasoning
+  - chain of thought
+  - problem solving
 ---
 
 # Reasoning — Meta-Skill 2026

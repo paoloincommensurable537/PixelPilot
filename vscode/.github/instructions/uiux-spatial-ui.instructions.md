@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: WebGPU, Three.js, and spatial UI patterns for immersive 3D web experiences. Product viewers, depth layers, and parallax beyond the basic.
 ---
 

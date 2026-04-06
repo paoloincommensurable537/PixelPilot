@@ -1,5 +1,9 @@
 ---
 description: Generate responsive testing matrix for viewports, touch targets, overflow detection, and font scaling verification.
+triggers:
+  - responsive
+  - mobile test
+  - breakpoint test
 ---
 
 # UI/UX Responsive Testing Skill

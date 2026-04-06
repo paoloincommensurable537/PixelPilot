@@ -1,5 +1,10 @@
 ---
 description: Advanced admin dashboard patterns including widget grids, RBAC UI, KPI cards, activity timelines, notification centers, user menus, impersonation modes, and data exports.
+triggers:
+  - admin
+  - dashboard
+  - admin panel
+  - back office
 ---
 
 # UI/UX Admin Dashboard 2026

@@ -1,5 +1,9 @@
 ---
 description: A guide for contributing new patterns and rules to the OpenCode UI/UX 2026 Design System.
+triggers:
+  - contributing
+  - contribution guide
+  - pull request
 ---
 
 # Contributing to OpenCode UI/UX 2026 Design System

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: AI-powered frontend features including AI search, autocomplete, chat interfaces (Gemini), and content generation.
 ---
 

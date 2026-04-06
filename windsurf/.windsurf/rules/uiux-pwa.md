@@ -1,5 +1,10 @@
 ---
 description: Advanced PWA patterns including service workers, manifest.json, app icon generation, and offline fallback strategies.
+triggers:
+  - pwa
+  - progressive web app
+  - service worker
+  - offline
 ---
 
 # UI/UX Progressive Web Apps (PWA) 2026

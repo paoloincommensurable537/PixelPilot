@@ -1,5 +1,10 @@
 ---
 description: Advanced data table patterns including TanStack Table, sortable, filterable, paginated, row selection, virtualization, filter sidebars, bulk actions, activity logs, and kanban boards.
+triggers:
+  - data table
+  - table
+  - grid view
+  - sortable table
 ---
 
 # UI/UX Data Table & Kanban 2026

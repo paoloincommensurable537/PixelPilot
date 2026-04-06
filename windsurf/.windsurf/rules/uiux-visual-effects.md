@@ -1,5 +1,10 @@
 ---
 description: Advanced visual effects including parallax scrolling, mouse-following glow, typing animations, confetti celebrations, and Lottie animation usage.
+triggers:
+  - visual effect
+  - blur
+  - gradient
+  - glassmorphism
 ---
 
 # UI/UX Visual Effects 2026

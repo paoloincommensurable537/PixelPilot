@@ -1,5 +1,10 @@
 ---
 description: Dedicated skill for integrating OpenCode UI/UX 2026 design system with Flutter applications.
+triggers:
+  - flutter
+  - dart
+  - mobile app
+  - cross platform
 ---
 
 # OpenCode UI/UX 2026 — Flutter Integration Skill

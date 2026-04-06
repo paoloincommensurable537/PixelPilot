@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Advanced navigation patterns including breadcrumbs, pagination, tabs, accordions, collapsible sidebars, bottom sheets, and command palettes.
 ---
 

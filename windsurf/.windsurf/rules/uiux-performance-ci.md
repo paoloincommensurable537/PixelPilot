@@ -1,5 +1,9 @@
 ---
 description: Lighthouse CI with budget assertions. GitHub Action that runs on PR, comments scores, and fails if budgets exceeded.
+triggers:
+  - performance ci
+  - lighthouse ci
+  - performance budget
 ---
 
 # Performance CI Skill

@@ -1,5 +1,10 @@
 ---
 description: Step-by-step integration for Sentry (error tracking), PostHog (product analytics), and Google Analytics 4. Includes cookie consent integration.
+triggers:
+  - analytics setup
+  - ga4
+  - tracking
+  - gtm
 ---
 
 # Analytics Setup Skill

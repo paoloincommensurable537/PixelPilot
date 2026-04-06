@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Ethical UI rules, no manipulative design, transparent pricing, and respecting user autonomy. Design that doesn't deceive.
 ---
 

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Animated number counter for KPIs and stats. Scroll-triggered with Intersection Observer, easing per design language, formatting options, respects prefers-reduced-motion.
 ---
 

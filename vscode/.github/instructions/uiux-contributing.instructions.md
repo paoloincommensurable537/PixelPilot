@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: A guide for contributing new patterns and rules to the OpenCode UI/UX 2026 Design System.
 ---
 

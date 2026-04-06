@@ -1,5 +1,9 @@
 ---
 description: Meta-skill for researching and evaluating modern front-end libraries.
+triggers:
+  - library research
+  - package comparison
+  - tool selection
 ---
 
 # UI/UX Library Research 2026

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Information architecture, complexity hiding, expert mode toggles, and progressive disclosure patterns. Showing the right information at the right time.
 ---
 

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Pre-commit hook or CI step that scans code for undefined CSS variables and hardcoded values that should be tokens.
 ---
 

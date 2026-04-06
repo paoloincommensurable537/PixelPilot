@@ -1,5 +1,10 @@
 ---
 description: Custom error pages (404, 403, 419, 429, 500, 503). Each uses design tokens and includes shared navigation. For Laravel: resources/views/errors/*.blade.php.
+triggers:
+  - error page
+  - 404
+  - 500
+  - error handling
 ---
 
 # UI/UX Error Pages

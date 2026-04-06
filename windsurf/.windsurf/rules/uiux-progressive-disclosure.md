@@ -1,5 +1,9 @@
 ---
 description: Information architecture, complexity hiding, expert mode toggles, and progressive disclosure patterns. Showing the right information at the right time.
+triggers:
+  - progressive disclosure
+  - show more
+  - accordion
 ---
 
 # Progressive Disclosure

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Creativity skill for generating fresh, context-specific wow effects. Includes 20+ idea categories, decision tree, mobile gestures, and memory prompt. All ideas use design tokens and are accessible.
 ---
 

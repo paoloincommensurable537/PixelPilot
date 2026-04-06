@@ -1,5 +1,10 @@
 ---
 description: Advanced layout patterns including floating cards, hero offsets, full-bleed bands, diagonal splits, masonry grids, and dashboard widget systems.
+triggers:
+  - layout
+  - grid
+  - flexbox
+  - page structure
 ---
 
 # UI/UX Layout Patterns 2026

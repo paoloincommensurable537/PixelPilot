@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: UI sound design, scroll-linked audio, data sonification, and audio feedback patterns. Making interfaces audible.
 ---
 

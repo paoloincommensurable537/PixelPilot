@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Analyse codebase for component usage patterns. Reports most/least used components, complexity scores, and optimization suggestions.
 ---
 

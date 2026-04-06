@@ -4,6 +4,10 @@ description: >
   WCAG report, axe-core scan, or accessibility review of any page or component.
   Uses Chrome DevTools MCP to navigate, inject axe-core, and produce a structured
   WCAG violation report with prioritised fix suggestions. Load after uiux-a11y.md.
+triggers:
+  - audit
+  - automated audit
+  - quality check
 ---
 
 # UI/UX Audit Automation 2026

@@ -1,5 +1,9 @@
 ---
 description: App configuration patterns using environment variables. Covers app name, logo, dynamic titles, copyright, and named routes.
+triggers:
+  - configuration
+  - site config
+  - app settings
 ---
 
 # UI/UX Site Configuration

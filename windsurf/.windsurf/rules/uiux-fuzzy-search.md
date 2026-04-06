@@ -1,5 +1,9 @@
 ---
 description: Typo-tolerant search using Fuse.js or lunr.js. Includes debounced input, match highlighting, "did you mean?" suggestions, and empty state handling. Token-aware styling.
+triggers:
+  - search
+  - fuzzy search
+  - autocomplete search
 ---
 
 # UI/UX Fuzzy Search

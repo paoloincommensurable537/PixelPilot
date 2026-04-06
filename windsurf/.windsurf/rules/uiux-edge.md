@@ -1,5 +1,9 @@
 ---
 description: Edge computing features including Vercel Edge Functions, Cloudflare Workers, middleware for personalization, A/B testing, and geolocation.
+triggers:
+  - edge function
+  - edge computing
+  - serverless
 ---
 
 # UI/UX Edge Computing 2026

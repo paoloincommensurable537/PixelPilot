@@ -1,5 +1,10 @@
 ---
 description: Security badges, verification UI, privacy indicators, and trust signals. Building confidence through transparent design.
+triggers:
+  - trust
+  - credibility
+  - social proof
+  - testimonial
 ---
 
 # Trust Signals

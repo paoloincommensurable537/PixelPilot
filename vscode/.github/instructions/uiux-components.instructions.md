@@ -1,3 +1,8 @@
+---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
+description: Reusable UI components and design system patterns
+---
+
 # UI/UX Components, Alerts, Nav & Grid
 
 > Dark mode setup, global CSS reset, CDN stack, SweetAlert2 themes, spacing, responsive navigation, grid layouts.

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: URL structure for multiple languages with Next.js, Laravel, and Vue Router. Includes language switcher without full page reload.
 ---
 

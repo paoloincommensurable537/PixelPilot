@@ -1,5 +1,9 @@
 ---
 description: Professional route naming conventions. Kebab-case URLs, RESTful conventions, named routes in all frameworks.
+triggers:
+  - routes
+  - url naming
+  - path convention
 ---
 
 # UI/UX Routes Naming Conventions

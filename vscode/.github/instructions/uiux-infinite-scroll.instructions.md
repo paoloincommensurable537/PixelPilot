@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Infinite scroll pattern with Intersection Observer. Loading skeleton, end of content message, manual load more fallback. Respects prefers-reduced-motion.
 ---
 

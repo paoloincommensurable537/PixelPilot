@@ -1,5 +1,9 @@
 ---
 description: Generate WCAG compliance statement template. Includes date, scope, exceptions, testing methods, and contact information.
+triggers:
+  - accessibility statement
+  - compliance
+  - a11y page
 ---
 
 # UI/UX Accessibility Statement Generator

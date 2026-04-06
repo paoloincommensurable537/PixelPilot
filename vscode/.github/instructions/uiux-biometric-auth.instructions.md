@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: WebAuthn/passkeys UI patterns, fingerprint and face prompts, fallback flows, and passwordless authentication. The future of login.
 ---
 

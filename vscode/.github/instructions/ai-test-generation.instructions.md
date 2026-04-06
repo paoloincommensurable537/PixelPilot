@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{test.ts,spec.ts,test.tsx,spec.tsx}"
 description: >
   AI test generation skill. Load when the user asks to "generate tests", "write
   E2E tests", "create integration tests", "test this user story", or "add Playwright /

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Making wait times feel shorter through progress narratives, skeleton theatre, and entertaining loading states. Turning frustration into delight.
 ---
 

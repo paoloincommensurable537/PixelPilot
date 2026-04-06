@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: >
   Automated accessibility audit skill. Load when the user asks for an a11y audit,
   WCAG report, axe-core scan, or accessibility review of any page or component.

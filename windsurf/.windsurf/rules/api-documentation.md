@@ -5,6 +5,11 @@ description: >
   an architecture diagram". Analyses a given code file or directory and produces
   human-readable documentation: README, API reference, or text-based architecture
   diagram. Preserves existing documentation where present.
+triggers:
+  - api docs
+  - swagger
+  - openapi
+  - endpoint
 ---
 
 # API Documentation 2026

@@ -1,3 +1,11 @@
+---
+description: Footer design, links, and site information
+triggers:
+  - footer
+  - site footer
+  - page footer
+---
+
 # UI/UX Footer System 2026
 
 > Full footer system per design language. Every footer is a complete component:

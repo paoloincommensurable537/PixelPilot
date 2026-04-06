@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Custom error pages (404, 403, 419, 429, 500, 503). Each uses design tokens and includes shared navigation. For Laravel: resources/views/errors/*.blade.php.
 ---
 

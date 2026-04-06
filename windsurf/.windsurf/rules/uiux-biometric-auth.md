@@ -1,5 +1,10 @@
 ---
 description: WebAuthn/passkeys UI patterns, fingerprint and face prompts, fallback flows, and passwordless authentication. The future of login.
+triggers:
+  - biometric
+  - fingerprint
+  - face id
+  - webauthn
 ---
 
 # Biometric Authentication UI

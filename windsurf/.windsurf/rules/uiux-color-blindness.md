@@ -1,5 +1,9 @@
 ---
 description: Simulate color blindness (protanopia, deuteranopia, tritanopia) via SVG filters. Provides fixes including icons, patterns, and line styles for charts.
+triggers:
+  - color blind
+  - color accessibility
+  - contrast
 ---
 
 # UI/UX Color Blindness Simulation & Fixes

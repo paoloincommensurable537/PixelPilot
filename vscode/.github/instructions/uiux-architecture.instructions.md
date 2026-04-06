@@ -1,3 +1,8 @@
+---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
+description: Project structure, folder organization, and code architecture
+---
+
 # UI/UX Architecture 2026
 
 > Feature-Sliced Design, component architecture, state management (Signals vs Context),

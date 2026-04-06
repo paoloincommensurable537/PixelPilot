@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Typo-tolerant search using Fuse.js or lunr.js. Includes debounced input, match highlighting, "did you mean?" suggestions, and empty state handling. Token-aware styling.
 ---
 

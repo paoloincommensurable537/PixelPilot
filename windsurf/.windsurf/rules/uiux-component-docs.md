@@ -1,5 +1,9 @@
 ---
 description: Auto-generate component documentation from source code using react-docgen, vuese, or vitepress. Outputs docs with props, examples, and token usage.
+triggers:
+  - documentation
+  - component docs
+  - storybook
 ---
 
 # Component Documentation Skill

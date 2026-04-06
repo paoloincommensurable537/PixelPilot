@@ -1,5 +1,10 @@
 ---
 description: Konami codes, hidden features, delightful surprises, and rewarding exploration. Making interfaces that reward curiosity.
+triggers:
+  - easter egg
+  - konami code
+  - hidden feature
+  - surprise
 ---
 
 # Easter Eggs & Delightful Surprises

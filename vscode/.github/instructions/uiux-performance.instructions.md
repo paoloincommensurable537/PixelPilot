@@ -1,3 +1,8 @@
+---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
+description: Core Web Vitals, optimization techniques, and performance budgets
+---
+
 # UI/UX Performance 2026
 
 > Core Web Vitals thresholds, font loading, resource hints, image format decisions,

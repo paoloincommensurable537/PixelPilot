@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: GraphQL API integration including Apollo Client, URQL, code generation, caching strategies, and 2026 GraphQL-first APIs.
 ---
 

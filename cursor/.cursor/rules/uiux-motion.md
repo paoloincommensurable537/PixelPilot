@@ -1,3 +1,7 @@
+---
+description: Animations, transitions, and motion design principles
+---
+
 # UI/UX Motion, Animation & Loading States 2026
 
 > Per-language animation systems, GSAP vs CSS decision rules, spring physics,

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: >
   AI red-teaming skill. Load when the project contains any LLM-powered feature —
   chatbots, AI assistants, prompt-based search, AI form helpers, AI content generation,

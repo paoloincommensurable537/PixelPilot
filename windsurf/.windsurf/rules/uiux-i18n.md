@@ -1,5 +1,10 @@
 ---
 description: Advanced i18n patterns including language switchers, RTL support, date/time formatting, number/currency formatting, and pluralization rules.
+triggers:
+  - internationalization
+  - i18n
+  - localization
+  - translation
 ---
 
 # UI/UX Internationalization (i18n) 2026

@@ -1,5 +1,10 @@
 ---
 description: Advanced content components including tooltips, popovers, carousels, video players, lightboxes, avatars, ratings, progress bars, steppers, and code blocks.
+triggers:
+  - content
+  - card
+  - list
+  - content block
 ---
 
 # UI/UX Content Components 2026

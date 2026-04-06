@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: >
   API documentation generation skill. Triggered by the /doc command or by requests
   like "document this file", "generate a README", "write API reference", or "create

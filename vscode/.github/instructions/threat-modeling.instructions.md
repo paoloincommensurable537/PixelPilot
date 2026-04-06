@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: >
   Threat modelling skill using the STRIDE framework. Load BEFORE writing any new
   feature that involves authentication, user data, payments, file uploads, API

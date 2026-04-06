@@ -1,5 +1,9 @@
 ---
 description: Creativity skill for generating fresh, context-specific wow effects. Includes 20+ idea categories, decision tree, mobile gestures, and memory prompt. All ideas use design tokens and are accessible.
+triggers:
+  - creative
+  - unique idea
+  - innovative ui
 ---
 
 # UI/UX Unique Ideas Generator

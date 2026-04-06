@@ -1,5 +1,9 @@
 ---
 description: Ethical UI rules, no manipulative design, transparent pricing, and respecting user autonomy. Design that doesn't deceive.
+triggers:
+  - dark pattern
+  - ethical design
+  - user respect
 ---
 
 # Anti-Dark Patterns

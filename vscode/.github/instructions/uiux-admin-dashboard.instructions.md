@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Advanced admin dashboard patterns including widget grids, RBAC UI, KPI cards, activity timelines, notification centers, user menus, impersonation modes, and data exports.
 ---
 

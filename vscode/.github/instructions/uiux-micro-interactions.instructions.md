@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Library of token-aware micro-interactions including ripple, skeleton loaders, toasts, pull-to-refresh, and drag-to-reorder. All respect prefers-reduced-motion.
 ---
 

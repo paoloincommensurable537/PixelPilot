@@ -5,6 +5,10 @@ description: >
   Cypress coverage". Produces integration and end-to-end tests from user stories,
   component files, or page interactions. Goes beyond unit tests — focuses on
   behaviour, not implementation. Load alongside uiux-testing.md.
+triggers:
+  - test generation
+  - ai testing
+  - auto test
 ---
 
 # AI Test Generation 2026

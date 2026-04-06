@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Battery-aware UI, light sensor adaptation, network-adaptive loading, and context-aware interfaces. Making apps that respect their environment.
 ---
 

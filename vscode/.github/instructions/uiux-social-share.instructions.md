@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Social share buttons using Web Share API with fallback popups. Supports Twitter, LinkedIn, Facebook, WhatsApp, Email. Token-aware styling, no third-party libraries.
 ---
 

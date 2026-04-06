@@ -1,5 +1,10 @@
 ---
 description: UI sound design, scroll-linked audio, data sonification, and audio feedback patterns. Making interfaces audible.
+triggers:
+  - sound
+  - audio
+  - notification sound
+  - ui sound
 ---
 
 # Sound Design for Web Interfaces

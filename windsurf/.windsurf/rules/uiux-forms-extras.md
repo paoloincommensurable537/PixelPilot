@@ -1,5 +1,10 @@
 ---
 description: Advanced form patterns including search bars, searchable dropdowns, range sliders, color pickers, and autocomplete/typeahead with API integration.
+triggers:
+  - form extras
+  - date picker
+  - file upload
+  - rating input
 ---
 
 # UI/UX Forms Extras 2026

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Time-of-day themes, deadline urgency, personalized greetings, and temporal context. Making interfaces aware of when.
 ---
 

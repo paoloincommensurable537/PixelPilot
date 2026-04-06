@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Security badges, verification UI, privacy indicators, and trust signals. Building confidence through transparent design.
 ---
 

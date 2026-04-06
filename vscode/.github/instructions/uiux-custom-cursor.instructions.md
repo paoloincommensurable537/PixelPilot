@@ -1,3 +1,8 @@
+---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
+description: Custom cursor effects and pointer styles
+---
+
 # UI/UX Custom Cursor 2026
 
 > Custom cursors, magnetic buttons, and cursor-based interactions for Luxury and

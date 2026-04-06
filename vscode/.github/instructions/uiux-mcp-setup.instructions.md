@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Concrete Model Context Protocol (MCP) server configurations for Chrome DevTools and Lighthouse CLI.
 ---
 

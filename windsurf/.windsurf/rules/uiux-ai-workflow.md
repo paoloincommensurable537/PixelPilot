@@ -1,3 +1,11 @@
+---
+description: AI assistant workflows and Copilot integration
+triggers:
+  - ai workflow
+  - ai assistant
+  - copilot
+---
+
 # UI/UX AI Workflow 2026
 
 > AI-native engineering patterns: using AI tools (Copilot, Claude, Cursor, Lovable)

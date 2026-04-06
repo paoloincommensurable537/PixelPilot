@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Skill to migrate existing CSS/JSX to design tokens. Includes regex patterns, mapping tables, native UI element detection, and diff output.
 ---
 

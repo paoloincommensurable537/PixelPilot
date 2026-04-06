@@ -1,5 +1,10 @@
 ---
 description: Dynamic meta tags per route including title, description, canonical URL, Open Graph, and Twitter Card. Covers Next.js, Vue, and Laravel.
+triggers:
+  - meta tags
+  - og tags
+  - twitter cards
+  - seo metadata
 ---
 
 # SEO Meta Tags Skill

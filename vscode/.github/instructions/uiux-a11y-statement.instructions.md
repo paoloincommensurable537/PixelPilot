@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Generate WCAG compliance statement template. Includes date, scope, exceptions, testing methods, and contact information.
 ---
 

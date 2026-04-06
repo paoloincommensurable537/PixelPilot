@@ -1,3 +1,8 @@
+---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
+description: CSS methodology, modules, and styling strategies
+---
+
 # UI/UX CSS Architecture 2026
 
 > Tailwind v4, CSS Layers, utility-first vs component-first, CSS Modules,

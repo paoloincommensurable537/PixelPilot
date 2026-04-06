@@ -1,3 +1,8 @@
+---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
+description: Interactive elements, hover states, and user interactions
+---
+
 # UI/UX Interactive Components 2026
 
 > Covers: image shape variants, mega-menu dropdowns (Tesla-style), navbar variants,

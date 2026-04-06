@@ -1,3 +1,12 @@
+---
+description: Core Web Vitals, optimization techniques, and performance budgets
+triggers:
+  - performance
+  - optimization
+  - core web vitals
+  - lighthouse
+---
+
 # UI/UX Performance 2026
 
 > Core Web Vitals thresholds, font loading, resource hints, image format decisions,

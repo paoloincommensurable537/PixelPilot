@@ -1,5 +1,10 @@
 ---
 description: Complete profile settings page pattern. Includes avatar upload, name/email/password editing, notification preferences, theme toggle, and account deletion. Token-aware and accessible.
+triggers:
+  - profile
+  - settings
+  - user settings
+  - account
 ---
 
 # UI/UX Profile Settings Page

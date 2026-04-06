@@ -1,3 +1,7 @@
+---
+description: Loading, empty, error states, and skeleton screens
+---
+
 # UI/UX Component States 2026
 
 > Every UI component has states. This file defines ALL 10 states every component

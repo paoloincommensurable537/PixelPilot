@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Generate responsive testing matrix for viewports, touch targets, overflow detection, and font scaling verification.
 ---
 

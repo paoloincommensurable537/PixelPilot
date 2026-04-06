@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Advanced PWA patterns including service workers, manifest.json, app icon generation, and offline fallback strategies.
 ---
 

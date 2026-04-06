@@ -1,3 +1,11 @@
+---
+description: Custom cursor effects and pointer styles
+triggers:
+  - custom cursor
+  - cursor effect
+  - pointer style
+---
+
 # UI/UX Custom Cursor 2026
 
 > Custom cursors, magnetic buttons, and cursor-based interactions for Luxury and

@@ -1,4 +1,5 @@
 ---
+applyTo: "**/*.{tsx,jsx,ts,js,css,html}"
 description: Professional route naming conventions. Kebab-case URLs, RESTful conventions, named routes in all frameworks.
 ---
 

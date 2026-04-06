@@ -1,3 +1,7 @@
+---
+description: Component testing, E2E testing, and visual regression
+---
+
 # UI/UX Testing 2026
 
 > Testing Trophy, component testing with Storybook, accessibility testing (axe-core),

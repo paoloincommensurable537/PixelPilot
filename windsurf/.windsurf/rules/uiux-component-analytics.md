@@ -1,5 +1,9 @@
 ---
 description: Analyse codebase for component usage patterns. Reports most/least used components, complexity scores, and optimization suggestions.
+triggers:
+  - analytics
+  - component tracking
+  - usage metrics
 ---
 
 # UI/UX Component Analytics Skill
