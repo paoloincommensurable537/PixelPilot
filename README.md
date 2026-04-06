@@ -1,26 +1,119 @@
 <div align="center">
 
-# PixelPilot
+<!-- LOGO/BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PixelPilot&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Stop%20AI%20Slop.%20Start%20Shipping%20Unique%20UI.&descAlignY=52&descSize=18" width="100%"/>
 
-### Stop AI Slop. Start Shipping Unique UI.
+<!-- BADGES -->
+<p>
+  <a href="https://github.com/dev-lou/pixelpilot/stargazers"><img src="https://img.shields.io/github/stars/dev-lou/pixelpilot?style=for-the-badge&logo=github&color=yellow" alt="Stars"/></a>
+  <a href="https://github.com/dev-lou/pixelpilot/network/members"><img src="https://img.shields.io/github/forks/dev-lou/pixelpilot?style=for-the-badge&logo=github" alt="Forks"/></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-11.2-blue?style=for-the-badge" alt="Version"/></a>
+  <a href="#rules-list"><img src="https://img.shields.io/badge/rules-91+-green?style=for-the-badge" alt="Rules"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge" alt="License"/></a>
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/dev-lou/pixelpilot?style=flat&logo=github&color=yellow)](https://github.com/dev-lou/pixelpilot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/dev-lou/pixelpilot?style=flat&logo=github)](https://github.com/dev-lou/pixelpilot/network/members)
-[![Version](https://img.shields.io/badge/version-11.2-blue.svg)](CHANGELOG.md)
-[![Rules](https://img.shields.io/badge/rules-91+-green.svg)](#rules-list)
-[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+<p>
+  <a href="https://github.com/sponsors/dev-lou"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor"/></a>
+</p>
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github-sponsors)](https://github.com/sponsors/dev-lou)
+<!-- TAGLINE -->
+<h3>91+ rules that force AI to write original, production-ready frontend code.</h3>
 
-**91+ rules that force AI to write original, production-ready frontend code.**
+<p><i>No more generic templates. No more copy-paste UI. No more AI slop.</i></p>
 
-No more generic templates. No more copy-paste UI. No more AI slop.
+<!-- SUPPORTED EDITORS -->
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Windsurf-00C4B3?style=flat-square" alt="Windsurf"/>
+  <img src="https://img.shields.io/badge/OpenCode-FF6B6B?style=flat-square" alt="OpenCode"/>
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=flat-square" alt="Zed"/>
+</p>
 
-Cursor | VS Code | Windsurf | OpenCode | Zed
-
-[Quick Start](#quick-start) | [Features](#features) | [Rules List](#rules-list) | [Sponsor](#support-the-project)
+<p>
+  <a href="#quick-start">Quick Start</a> •
+  <a href="#features">Features</a> •
+  <a href="#rules-list">Rules List</a> •
+  <a href="#support-the-project">Sponsor</a>
+</p>
 
 </div>
+
+<br/>
+
+---
+
+<!-- BEFORE/AFTER COMPARISON -->
+## Without PixelPilot vs With PixelPilot
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Without PixelPilot
+
+```jsx
+// Generic AI output
+<button onClick={handleClick}>
+  Submit
+</button>
+
+<select>
+  <option>Choose...</option>
+</select>
+
+<img src="placeholder.jpg" />
+```
+
+- Native browser elements
+- No loading states
+- No accessibility
+- Generic styling
+- Grey placeholders
+
+</td>
+<td width="50%" valign="top">
+
+### With PixelPilot
+
+```jsx
+// PixelPilot-trained AI output
+<Button 
+  onClick={handleClick}
+  loading={isSubmitting}
+  disabled={!isValid}
+  aria-busy={isSubmitting}
+>
+  {isSubmitting ? <Spinner /> : 'Submit'}
+</Button>
+
+<CustomSelect
+  options={options}
+  theme={theme}
+  accessible={true}
+/>
+
+<picture>
+  <source srcSet="hero.avif" type="image/avif"/>
+  <img 
+    src="hero.webp" 
+    alt="Hero image"
+    width={1200}
+    height={630}
+    loading="lazy"
+  />
+</picture>
+```
+
+- Custom components
+- 10 states handled
+- WCAG compliant
+- Design tokens
+- Real images
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -45,6 +138,36 @@ PixelPilot trains your AI to write **unique, opinionated, professional UI** by e
 
 ---
 
+<!-- VISUAL FEATURE HIGHLIGHTS -->
+## Features at a Glance
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h1>91+</h1>
+<b>Rule Files</b><br/>
+<sub>Comprehensive coverage</sub>
+</td>
+<td align="center" width="25%">
+<h1>7</h1>
+<b>Design Languages</b><br/>
+<sub>Luxury to Technical</sub>
+</td>
+<td align="center" width="25%">
+<h1>10</h1>
+<b>Component States</b><br/>
+<sub>Every interaction covered</sub>
+</td>
+<td align="center" width="25%">
+<h1>5</h1>
+<b>Editors Supported</b><br/>
+<sub>Use your favorite</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## Supported Editors
 
 | Editor | Status | Config Location |
@@ -62,8 +185,8 @@ PixelPilot trains your AI to write **unique, opinionated, professional UI** by e
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pixelpilot.git
-cd pixelpilot
+git clone https://github.com/dev-lou/PixelPilot.git
+cd PixelPilot
 ```
 
 ### Step 2: Copy Rules to Your Project
@@ -425,10 +548,19 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
 
-**Created by Lou Vincent Baroro**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-[Report Bug](https://github.com/dev-lou/pixelpilot/issues) | [Request Feature](https://github.com/dev-lou/pixelpilot/issues) | [Star on GitHub](https://github.com/dev-lou/pixelpilot)
+**Created by [Lou Vincent Baroro](https://github.com/dev-lou)**
+
+<p>
+  <a href="https://github.com/dev-lou/PixelPilot/issues">Report Bug</a> •
+  <a href="https://github.com/dev-lou/PixelPilot/issues">Request Feature</a> •
+  <a href="https://github.com/dev-lou/PixelPilot">Star on GitHub</a>
+</p>
+
+<sub>If PixelPilot helped you, consider giving it a star!</sub>
 
 </div>
