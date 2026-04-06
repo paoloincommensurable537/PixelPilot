@@ -8,7 +8,7 @@
   <a href="https://github.com/dev-lou/pixelpilot/stargazers"><img src="https://img.shields.io/github/stars/dev-lou/pixelpilot?style=for-the-badge&logo=github&color=yellow" alt="Stars"/></a>
   <a href="https://github.com/dev-lou/pixelpilot/network/members"><img src="https://img.shields.io/github/forks/dev-lou/pixelpilot?style=for-the-badge&logo=github" alt="Forks"/></a>
   <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-11.2-blue?style=for-the-badge" alt="Version"/></a>
-  <a href="#rules-list"><img src="https://img.shields.io/badge/rules-91+-green?style=for-the-badge" alt="Rules"/></a>
+  <a href="#rules-list"><img src="https://img.shields.io/badge/rules-92-green?style=for-the-badge" alt="Rules"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge" alt="License"/></a>
 </p>
 
@@ -17,7 +17,7 @@
 </p>
 
 <!-- TAGLINE -->
-<h3>91+ rules that force AI to write original, production-ready frontend code.</h3>
+<h3>92 rules that force AI to write original, production-ready frontend code.</h3>
 
 <p><i>No more generic templates. No more copy-paste UI. No more AI slop.</i></p>
 
@@ -144,7 +144,7 @@ PixelPilot trains your AI to write **unique, opinionated, professional UI** by e
 <table>
 <tr>
 <td align="center" width="25%">
-<h1>91+</h1>
+<h1>92</h1>
 <b>Rule Files</b><br/>
 <sub>Comprehensive coverage</sub>
 </td>
@@ -180,6 +180,30 @@ PixelPilot trains your AI to write **unique, opinionated, professional UI** by e
 
 ---
 
+## Token Efficiency
+
+PixelPilot is designed for **smart rule loading** — your AI only loads what it needs, saving tokens and improving response quality.
+
+### How Each Editor Handles Rules
+
+| Editor | Always Loaded | Selective Loading | Method |
+|--------|---------------|-------------------|--------|
+| **OpenCode** | `AGENTS.md` only | `.opencode/rules/` loaded via `read_file` | Most token-efficient. Rules loaded on-demand. |
+| **Cursor** | `.cursorrules` | `.cursor/rules/` based on `description:` frontmatter | Context-aware selective loading. |
+| **VS Code Copilot** | `copilot-instructions.md` | `.instructions.md` files via `applyTo:` glob patterns | File-type specific loading. Efficient. |
+| **Windsurf** | `uiux-main.md` (`trigger: always_on`) | 91 rules via `triggers:` frontmatter | Keyword-based matching. Very efficient. |
+| **Zed** | `.rules` (40-line summary) | N/A | Single compact file. Minimal tokens. |
+
+### Token Efficiency by Editor
+
+- **OpenCode** — Most efficient. `AGENTS.md` loads first (~2KB), individual rules load on-demand only when needed via `read_file`. Zero waste.
+- **Windsurf** — Very efficient. Only `uiux-main.md` always loads. All other 91 rules load only when their `triggers:` match what you're working on (e.g., "form", "animation", "accessibility").
+- **VS Code Copilot** — Efficient. Main instructions always load. Additional `.instructions.md` files load only for matching file types via `applyTo:` patterns (e.g., `"**/*.{tsx,jsx}"`).
+- **Cursor** — Context-aware. `.cursorrules` always loads. Additional rules in `.cursor/rules/` load selectively based on `description:` frontmatter and current context.
+- **Zed** — Minimal. Single `.rules` file contains a compact 40-line summary of essential rules. Lowest token usage, but less comprehensive.
+
+---
+
 ## Quick Start
 
 ### Step 1: Clone the Repository
@@ -208,7 +232,7 @@ cp -r /path/to/pixelpilot/cursor/.cursor ./
 your-project/
 ├── .cursorrules          # Main rules file
 └── .cursor/
-    └── rules/            # 91 detailed rule files
+    └── rules/            # 92 detailed rule files
         ├── uiux-a11y.md
         ├── uiux-components.md
         ├── uiux-tokens.md
@@ -233,7 +257,7 @@ cp -r /path/to/pixelpilot/vscode/.github ./
 your-project/
 └── .github/
     ├── copilot-instructions.md    # Main instructions
-    └── instructions/              # 91 detailed instruction files
+    └── instructions/              # 92 detailed instruction files
         ├── uiux-a11y.instructions.md
         ├── uiux-components.instructions.md
         └── ...
@@ -256,7 +280,7 @@ cp -r /path/to/pixelpilot/windsurf/.windsurf ./
 ```
 your-project/
 └── .windsurf/
-    └── rules/            # 91+ rule files with frontmatter triggers
+    └── rules/            # 92 rule files with frontmatter triggers
         ├── uiux-main.md
         ├── uiux-a11y.md
         └── ...
@@ -281,7 +305,7 @@ cp -r /path/to/pixelpilot/opencode/.opencode ./
 your-project/
 ├── AGENTS.md             # Main agent instructions
 └── .opencode/
-    └── rules/            # 91 detailed rule files
+    └── rules/            # 92 detailed rule files
         ├── uiux-a11y.md
         └── ...
 ```
@@ -369,7 +393,7 @@ Choose the visual language that matches your project:
 ## Rules List
 
 <details>
-<summary><b>View all 91 rule files</b></summary>
+<summary><b>View all 92 rule files</b></summary>
 
 ### Core Rules
 | File | Description |
@@ -473,13 +497,6 @@ No! The main config file (`.cursorrules`, `copilot-instructions.md`, etc.) conta
 </details>
 
 <details>
-<summary><b>Will this slow down my AI assistant?</b></summary>
-
-No. Rule files are read on-demand and cached. The impact on response time is negligible.
-
-</details>
-
-<details>
 <summary><b>Can I customize the rules?</b></summary>
 
 Absolutely! All rules are in Markdown format. Edit any file to match your team's standards. Consider forking the repo to maintain your customizations.
@@ -502,6 +519,19 @@ git pull origin main
 <summary><b>What if my editor isn't listed?</b></summary>
 
 Most AI coding assistants support some form of custom instructions. Check your editor's documentation for "custom rules", "system prompts", or "instructions" features. The rule content is portable — only the file location differs.
+
+</details>
+
+<details>
+<summary><b>Will this slow down my AI or use too many tokens?</b></summary>
+
+No. PixelPilot uses **smart loading** — each editor only loads the rules relevant to your current task:
+
+- **OpenCode** and **Windsurf** are the most token-efficient. Only the main file loads initially; additional rules load on-demand based on what you're working on.
+- **Cursor** and **VS Code Copilot** load rules selectively based on context and file types.
+- **Zed** uses a single compact 40-line file.
+
+The system is designed to only load what is relevant, so you get comprehensive coverage without token bloat.
 
 </details>
 
@@ -545,6 +575,18 @@ Your support helps:
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
+
+---
+
+## Star History
+
+If PixelPilot helped you build better UIs, consider giving it a star! Your support helps others discover the project and motivates continued development.
+
+<a href="https://github.com/dev-lou/PixelPilot/stargazers">
+  <img src="https://img.shields.io/github/stars/dev-lou/pixelpilot?style=for-the-badge&logo=github&color=yellow" alt="Star on GitHub"/>
+</a>
+
+Every star helps. Thank you for your support!
 
 ---
 
